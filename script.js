@@ -1,4 +1,4 @@
-let numero = 2
+let numero = 104712
 
 console.log(esPrimo(numero));
 
